@@ -1,6 +1,4 @@
-# Slim Framework- Server Configuration Checker
-
-## Usage
+# Slim Framework - Server Configuration Checker
 
 * Upload the file [check.php](https://raw.githubusercontent.com/odan/slim-checker/master/check.php) to your webserver
 * Browse to the file: `https://example.com/check.php`
