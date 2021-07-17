@@ -2,7 +2,7 @@
 
 ## Usage
 
-* Upload the file [check.php](https://gist.githubusercontent.com/odan/7fda1e4129cfd4a491ded5651fc32096/raw/f4e9fd1f2ff1f014a6482831941a6aa34d9d1219/check.php) to your webserver
+* Upload the file [check.php](https://raw.githubusercontent.com/odan/slim-checker/master/check.php) to your webserver
 * Browse to the file: `https://example.com/check.php`
 * Check the result
 
